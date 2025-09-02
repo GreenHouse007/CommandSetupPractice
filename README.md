@@ -1,1 +1,1 @@
-This is a practice of adding things to a GitHud repository using the CLI. git
+This is a practice of adding things to a GitHud repository using the CLI.
